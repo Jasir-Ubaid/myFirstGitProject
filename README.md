@@ -1,4 +1,5 @@
 # My First Git Project
 
-This is a conflicting change.
+This is a new feature and a conflicting change.
+
 
